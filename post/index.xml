@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HOME on 一个人的战争</title>
-    <link>https://hackers-delight.com/</link>
-    <description>Recent content in HOME on 一个人的战争</description>
+    <title>POST on 一个人的战争</title>
+    <link>https://hackers-delight.com/post/</link>
+    <description>Recent content in POST on 一个人的战争</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© NsLib</copyright>
     <lastBuildDate>Thu, 10 Oct 2019 22:33:27 +0800</lastBuildDate>
     
-	<atom:link href="https://hackers-delight.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hackers-delight.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://hackers-delight.com/post/previous-blog/</guid>
       <description>一个人的战争</description>
-    </item>
-    
-    <item>
-      <title>ABOUT</title>
-      <link>https://hackers-delight.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hackers-delight.com/about/</guid>
-      <description>Make Tech Easier</description>
     </item>
     
   </channel>

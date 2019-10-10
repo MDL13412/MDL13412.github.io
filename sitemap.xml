@@ -3,26 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hackers-delight.com/posts/hello/</loc>
-    <lastmod>2019-10-10T18:58:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hackers-delight.com/posts/</loc>
-    <lastmod>2019-10-10T18:58:08+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hackers-delight.com/</loc>
-    <lastmod>2019-10-10T18:58:08+08:00</lastmod>
+    <lastmod>2019-10-10T22:33:27+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hackers-delight.com/categories/</loc>
+    <loc>https://hackers-delight.com/post/</loc>
+    <lastmod>2019-10-10T22:33:27+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hackers-delight.com/tags/</loc>
+    <loc>https://hackers-delight.com/post/previous-blog/</loc>
+    <lastmod>2019-10-10T22:33:27+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackers-delight.com/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackers-delight.com/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackers-delight.com/techs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

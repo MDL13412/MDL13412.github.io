@@ -5,40 +5,28 @@
   <url>
     <loc>https://hackers-delight.com/</loc>
     <lastmod>2019-10-10T22:33:27+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hackers-delight.com/post/</loc>
+    <loc>https://hackers-delight.com/posts/</loc>
     <lastmod>2019-10-10T22:33:27+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hackers-delight.com/post/previous-blog/</loc>
+    <loc>https://hackers-delight.com/2019/10/%E6%97%A7%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2019-10-10T22:33:27+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://hackers-delight.com/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hackers-delight.com/designs/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://hackers-delight.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://hackers-delight.com/techs/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://hackers-delight.com/tags/</loc>
   </url>
   
 </urlset>
